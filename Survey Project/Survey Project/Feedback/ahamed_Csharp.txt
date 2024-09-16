@@ -1,0 +1,6 @@
+Question: how are you?, Answer: Very Good
+Question: how is C#?, Answer: Good
+Question: Tell me about Your self?, Answer: Very Good
+Question: how do you do?, Answer: Very Good
+Question: who your?, Answer: Good
+Averege: 65

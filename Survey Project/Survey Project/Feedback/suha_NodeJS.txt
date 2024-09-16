@@ -1,0 +1,5 @@
+Question: hello evreyone?, Answer: Good
+Question: what are you doing?, Answer: Excellent
+Question: where are you?, Answer: Very Good
+Question: how it's look?, Answer: Good
+Averege: 68

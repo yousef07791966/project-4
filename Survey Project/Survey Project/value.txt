@@ -1,0 +1,4 @@
+﻿csharp=50
+php=75
+nodejs=85
+frontend=95
